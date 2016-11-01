@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858413571439",
+    "firebase_url": "https://beastweather.firebaseio.com",
+    "project_id": "beastweather",
+    "storage_bucket": "beastweather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858413571439:android:e0bd56c90563ba61",
+        "android_client_info": {
+          "package_name": "beastandroidapps.beastweather2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858413571439-sld7qdpeu4mt050me8b0cd62meqsdu2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beastandroidapps.beastweather2",
+            "certificate_hash": "4808F40EF32ADBFF4EA44632E658A3004FA52BF4"
+          }
+        },
+        {
+          "client_id": "858413571439-51o83o8ta87b9g50ppgvg07nne6f5evj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTjI-_IavwxA53NDD7IITLMuhLs49HDxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858413571439-51o83o8ta87b9g50ppgvg07nne6f5evj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
